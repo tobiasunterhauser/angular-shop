@@ -1,3 +1,3 @@
-# angular-yxr66k
+# angular-shop
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-yxr66k)
+first angular project
